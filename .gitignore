@@ -1,0 +1,15 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# --- ADD THIS SECTION ---
+# Secrets and API Keys - DO NOT UPLOAD
+codebase
