@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+supabase
+haversine
+sentence-transformers
+langchain-community
+langchain-core
+requests
+psycopg2-binary # Required for Supabase vector operations
+langchain-postgres # For pgvector integration
